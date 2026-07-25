@@ -15,8 +15,8 @@
 
 <!-- ==== GitHub Stats ==== -->
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sergio-b-maciel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-b-maciel&layout=compact&langs_count=7&theme=dark&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sergio-b-maciel&theme=github_dark" alt="Estatísticas do GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sergio-b-maciel&theme=github_dark" alt="Linguagens por repositório" />
 </div>
 
 <br/>
