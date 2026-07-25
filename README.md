@@ -30,13 +30,15 @@
   </picture>
 </div>
 
+<h2 align="center">🛠️ Tecnologias</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
 <!--
 sergio-b-maciel/sergio-b-maciel é um repositório ✨ especial ✨: este README.md aparece no seu perfil do GitHub.
-Dica: preencha suas tecnologias abaixo (descomente e edite).
-
-## 🛠️ Tecnologias
-<p>
-  <img src="https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Python-000?style=flat-square&logo=python" />
-</p>
 -->
